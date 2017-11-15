@@ -14,7 +14,7 @@ url:              http://simsi.es/
 baseurl:          http://simsi.es/blog/
 
 author:
-  name:           'Mark Otto'
+  name:           'Josh Simmons'
   url:            https://twitter.com/mdo
 
 paginate:         5
