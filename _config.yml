@@ -15,8 +15,8 @@ paginate:            5
 # About/contact
 author:
   name:              Josh Simmons
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  url:               https://simsi.es/
+  email:             jcpsimmons@gmail.com
 
 # Custom vars
 version:             1.0.0
