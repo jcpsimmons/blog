@@ -1,12 +1,10 @@
 ---
-layout: post
-title: Composing for Loadbang: 54 Days
-comments: true
-published: true
+published: false
 ---
 
-## I am testing the blog
+## My First Time Writing Notated Music in Two Years
 
-![Loadbang](/public/loadbang.jpg "Loadbang")
+![Loadbang]({{site.baseurl}}/_posts/loadbang.jpg)
+
 
 I want to add disqus comments
