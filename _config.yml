@@ -23,3 +23,7 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+baseurl: "/blog"
+production_url : http://jcpsimmons.github.io.com/blog
+BASE_PATH : http://simsi.es/blog
