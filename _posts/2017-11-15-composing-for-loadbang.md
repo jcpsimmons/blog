@@ -1,5 +1,8 @@
 ---
-published: false
+published: true
+comments: true
+title: Composing for Loadbang
+layout: post
 ---
 
 ## My First Time Writing Notated Music in Two Years
@@ -15,7 +18,7 @@ What is the compositional process in 2017? In my case it's not going to involve 
 
 This blog is a peek inside of that creative process. I'll write about any tips, wisdom, and pitfalls I have along the way so you can benefit from my experience. In addition, I'll have a comments section below each post so you can tell me your opinions on what I'm working on, and share your experience as well.
 
-Before **all** of that though, I have to brainstorm. I always start in a notebook, usually a Moleskine, and using a G2 Pen (the .07mm variety -- I find that the .05mm forces the hand to work too hard against the page, and the 1.0mm is too imprecise). Typically I start by riffing on the concept of "Shit I like right now". This will usually kick off a few trains of thought. The one that I'll start leveraging early is musical inspiration. I'll figure out what kind of music is on my "Mood Board" for the piece and create a Spotify playlist that I will listen to obsessively and constantly during the beginning of the process. 
+Before **all** of that though, I have to brainstorm. I always start in a notebook, usually a Moleskine, and using a G2 Pen (the .07mm variety -- I find that the .05mm forces the hand to work too hard against the page, and the 1.0mm is too imprecise). Typically I start by riffing on the concept of "Shit I like right now". This will usually kick off a few trains of thought. The one that I'll start leveraging early is musical inspiration. I'll figure out what kind of music is on my "Mood Board" for the piece and create a Spotify playlist that I will listen to obsessively and constantly during the beginning of the process.
 
 **Possible Listening**
 
