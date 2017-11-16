@@ -37,4 +37,4 @@ Going through this process allows you to hear your nascent piece in other pieces
 
 **Here is my Mood Crate for the loadbang composition:**
 
-https://open.spotify.com/user/128899618/playlist/1wh6maR8PzmR3cofYt2AP6
+[Josh's Spotify Mood Crate](https://open.spotify.com/user/128899618/playlist/1wh6maR8PzmR3cofYt2AP6)
