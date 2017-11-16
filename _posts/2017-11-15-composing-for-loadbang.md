@@ -8,7 +8,7 @@ layout: post
 ## My First Time Writing Notated Music in Two Years
 ### 54 days remaining
 
-![Loadbang]({{site.baseurl}}/_posts/loadbang.jpg)
+![Loadbang](public/loadbang.jpg)
 
 I don't really write "dots on paper" music anymore. I went way down the synthesizer/electronic music rabbit hole a couple of years ago and haven't really looked back. Creating with electronics is more similar to my early encounters with music. When I played guitar as a child I didn't even know what a chord was, I just played by ear. In addition to this direct connection with the material, electronic music gives instant feedback. When I used to write for ensembles, I would have to hold onto my material for months before hearing it played -- and usually when it was played it wasn't very good. Sometimes this was the ensemble's fault, but usually it was my fault. The world doesn't move on a kind of time scale that's conducive to that kind of slow learning, i.e. make a mistake, and don't hear the mistake until 3 months later at the premiere.
 
@@ -32,4 +32,4 @@ Before **all** of that though, I have to brainstorm. I always start in a noteboo
 
 Here's a peek at my brainstorming process:
 
-![Brainstorm Paper]({{site.baseurl}}/_posts/brainstorm.jpg)![brainstorm.jpg]({{site.baseurl}}/_posts/brainstorm.jpg)
+![Brainstorm Paper](public/brainstorm.jpg)
