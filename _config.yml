@@ -8,8 +8,8 @@ relative_permalinks: false
 title:               Simsies
 tagline:             'The blog of Josh Simmons'
 description:         'An inside look at my creative process.'
-url:                 https://simsi.es/blog
-baseurl:             /blog
+url:                 "https://simsi.es"
+baseurl:             "/blog"
 paginate:            5
 
 # About/contact
