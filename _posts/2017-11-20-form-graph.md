@@ -17,7 +17,7 @@ A one page graphical representation of the piece of music you intend to write. I
 
 For this exercise I prefer to use a letter sized piece of white paper folded lengthwise. For a writing implement I like to use a Pilot Metropolitan fountain pen.
 
-![Pilot Metropolitan](public/pilot-metropolitan.png)
+![Pilot Metropolitan](/public/pilot-metropolitan.jpg)
 
 Any writing implement can be used for this exercise. I have seen form graphs made with crayons, markers, etc. I shy away from using colors other than black and white because I enjoy the clean look of the completed form graph. This is a personal preference. It is however very important to **decide on the paper size before beginning**. Having a fixed paper size will provide a constraint for the exercise. Contraints demand creativity.
 
@@ -34,4 +34,4 @@ I've posted my graph below for the loadbang piece I am working on. If you make y
 
 
 
-![Form Graph](public/form-graph.png)
+![Form Graph](/public/form-graph.jpg)
