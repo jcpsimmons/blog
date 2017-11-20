@@ -17,7 +17,7 @@ A one page graphical representation of the piece of music you intend to write. I
 
 For this exercise I prefer to use a letter sized piece of white paper folded lengthwise. For a writing implement I like to use a Pilot Metropolitan fountain pen.
 
-![Pilot Metropolitan](/public/pilot-metropolitan.png)
+![Pilot Metropolitan](public/pilot-metropolitan.png)
 
 Any writing implement can be used for this exercise. I have seen form graphs made with crayons, markers, etc. I shy away from using colors other than black and white because I enjoy the clean look of the completed form graph. This is a personal preference. It is however very important to **decide on the paper size before beginning**. Having a fixed paper size will provide a constraint for the exercise. Contraints demand creativity.
 
@@ -28,10 +28,10 @@ Any writing implement can be used for this exercise. I have seen form graphs mad
 3. Draw the piece without erasing or editing. Don't question yourself while creating.
 4. Keep the graph with you at all times while writing the piece. It is your map.
 
-I've posted my graph below for the loadbang piece I am working on. If you make your own graph post it in the comments, or email me at [jcpsimmons@gmail.com](mailto:jcpsimmons@gmail.com) I'll post submitted graphs on the blog next week. 
+I've posted my graph below for the loadbang piece I am working on. If you make your own graph post it in the comments, or email me at [jcpsimmons@gmail.com](mailto:jcpsimmons@gmail.com) I'll post submitted graphs on the blog next week.
 
 
 
 
 
-![Form Graph](/public/form-graph.png)
+![Form Graph](public/form-graph.png)
