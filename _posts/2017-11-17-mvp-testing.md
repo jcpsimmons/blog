@@ -21,4 +21,4 @@ This technique integrates a bunch of the different pieces in my Mood Crate. I wa
 
 I think it sounds pretty good. I am definitely going to use the technique in the piece.
 
-![Micro Testing](public/micro-test.png)
+![Micro Testing](https://simsi.es/blog/public/micro-test.png)

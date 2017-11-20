@@ -13,7 +13,7 @@ Creating a "Mood Crate" can be an extremely helpful activity early on in the com
 
 The term Mood Crate is my adaptation of the "Mood Wall" technique in visual design fields. A Mood Crate is your auditory corkboard that can help to be your guiding star along the journey of writing a piece of music.
 
-![My Mood Crate](public/moodcrate.jpg)
+![My Mood Crate](https://simsi.es/blog/public/moodcrate.jpg)
 
 To create a Mood Crate, first you need to brainstorm in more general terms about the piece. I outline this briefly in my previous post.
 
