@@ -7,7 +7,7 @@ published: true
 
 ### 50 days remaining
 
-{{ photodir }}
+{{ site.photodir }}
 I have a lot of ideas floating around in my head. It's only 50 days out so it's time to make decisions on which ones live and which ones don't make the cut. I've decided to dive right in and make a "form graph". This is an exercise I picked up from composer [Elainie Lillios](http://elillios.com/). Making a form graph has developed into sort of a superstitious ritual for me when I begin work on a piece. Apart from this importance, it also has directly identifiable benefits to the creative process. First let me back up and explain what a form graph is.
 
 ## What is a form graph?
