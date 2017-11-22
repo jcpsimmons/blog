@@ -17,12 +17,6 @@ I save these videos for later perusal. The great thing about recording improvisa
 
 I want the opening section of my loadbang piece to be improvisatory sounding. For inspiration I'm using the opening bassoon solo from *The Rite of Spring*. The best way to get something improvisatory sounding is to.....dictate something improvised.
 
+
+
 ![Improv Videos](https://simsi.es/blog/public/improv-videos.png)
-
-**Edit (11-22-2017)**:
-
-Since posting yesterday I've set about uploading all of my improvisations to YouTube. I will continue to do so, improving the audio quality and video quality as I obtain access to better equipment. Here are a couple of my favorites:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_Lv_LO_BA-o" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c_c9CBQL6Is" frameborder="0" allowfullscreen></iframe>
