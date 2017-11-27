@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tools of the Trade: Creative Composer Paraphenelia
+title: Tools of the Trade
 comments: true
 published: true
 ---
