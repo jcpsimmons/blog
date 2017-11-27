@@ -95,6 +95,4 @@ amzn_assoc_linkid = "dbbc511b8faf90e0484f8bc9b22de7b8";
 
 I'm going to write a full post about coffee here at some point. For brevity and to fit this post though I will only mention one bit of coffee paraphenelia - and that is, your favorite mug. Recently I have been phasing out my favorite and lucky mug of 10 years because the ceramic has actually worn away on the inside to such a degree that I'm not sure it's safe to drink out of anymore. The mug is out of production so I've been exploring alternatives. One alternative design I've been enjoying recently is a Coleman camp mug. It's got a nice tinny feeling to it and I love how easily it cleans up.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=simsies-blog-20&amp;marketplace=amazon&amp;region=US&amp;placement=B0009PUR72&amp;asins=B0009PUR72&amp;linkId=e29322c9060f41ad561d843664c8b5a1&amp;show_border=true&amp;link_opens_in_new_window=true"></iframe>
-
 What other bits do you like to have around when composing? Let me know in the comments!
