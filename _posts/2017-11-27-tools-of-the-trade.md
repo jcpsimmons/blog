@@ -13,7 +13,18 @@ During the break I received a bunch of messages from readers asking me to elabor
 
 I've been using Moleskines for almost 10 years now. The Moleskine notebook is the most reliable tool in my creativity arsenal. The journals are nice and sturdy. I love the battered, war-torn look they get further into their lifespan. The paper is a light cream color and extremely pleasant to write on. I feel as though the tactile quality of the paper demands that it be filled with wild ideas. An included tassle helps you find the most recent page you were working on quickly and efficiently. One of the most useful features is an accordian pocket in the back of the book for storing any interesting bits you may come across, love notes, business cards, or (my favorite) [found paper](https://www.reddit.com/r/FoundPaper/). The archival quality of the notebooks are fantastic also - I have filled journals dating back many years that are still in mint condition, unfortunately many of the ideas inside didn't age as well as the notebooks... Moleskines come in a number of different layouts - I used to be a purist and prefer the blank white page. Lately I've gotten into [Bullet Journaling](http://bulletjournal.com/) and have begun to use the dotted variety.
 
-<a href="https://www.amazon.com/Moleskine-Classic-Colored-Notebook-Underwater/dp/8867323679/ref=as_li_ss_il?ie=UTF8&qid=1511825378&sr=8-1&keywords=dotted+moleskine&linkCode=li3&tag=simsies-blog-20&linkId=537191fb7897304b73ce24bcc72cf33b" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=8867323679&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=simsies-blog-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=simsies-blog-20&l=li3&o=1&a=8867323679" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<script type="text/javascript">
+amzn_assoc_tracking_id = "dreammachin07-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "8867323679";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "0564c68285e692f1f16fb7150b9c21fa";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ## Pilot G2 gel pens in varying point sizes.
 
