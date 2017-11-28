@@ -5,7 +5,6 @@ comments: true
 published: true
 ---
 
-### 49 days remaining
 
 It's astounding to me that there are musicians that *don't* improvise. Improvisation is the fastest idea generation method. I can't think of any musician playing in any kind of style that wouldn't benefit greatly from adding a bit of daily improvisation into their routine.
 

@@ -6,7 +6,6 @@ layout: post
 ---
 
 ## My First Time Writing Notated Music in Two Years
-### 54 days remaining
 
 ![Loadbang](https://simsi.es/blog/public/loadbang.jpg)
 

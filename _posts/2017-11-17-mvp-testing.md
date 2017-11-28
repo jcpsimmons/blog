@@ -5,8 +5,6 @@ comments: true
 published: true
 ---
 
-### 52 days remaining
-
 Test your small ideas in the sloppiest way possible.
 
 I was taking a nap yesterday, and in the fog between waking and sleeping I heard a cool idea.

@@ -7,7 +7,6 @@ published: true
 
 ## Brainstorm Stage II: The Mood Crate
 
-### 53 days remaining
 
 Creating a "Mood Crate" can be an extremely helpful activity early on in the compositional process. I originally heard of the technique in an interview with composer David Whitacre. When Whitacre was asked what music he listens to while working on a piece, he replied that he listened to choral music when working on intrumental music, and instrumental music when working on choral music. The cross-pollination is obvious in his music, his band pieces are evocative of lush vocal sounds, and his choral music is written as if the voice is a mechanically refined instrument.
 

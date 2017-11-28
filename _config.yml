@@ -6,7 +6,7 @@ relative_permalinks: false
 
 # Setup
 title:               Simsies
-tagline:             'The blog of Josh Simmons'
+tagline:             '| Learn how to live a creative life'
 description:         'An inside look at my creative process.'
 url:                 "https://simsi.es"
 baseurl:             "/blog"
@@ -21,3 +21,6 @@ author:
 # Custom vars
 version:             1.0.0
 photodir:            "https://simsi.es/public/"
+
+# Gems
+gems: [jekyll-paginate]
