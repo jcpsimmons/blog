@@ -71,6 +71,8 @@ Day 1 of the trunk exercise, I started with a whopping 5 seconds. This was enoug
 
 Towards the end of the therapy, I took a flight to San Francisco. I was a bit nervous, but the fear wasn't overwhelming and I mostly felt calm during the vacation. Most importantly, I faced the flight head on. I didn't try to look away. I didn't work on music. It was a huge step.
 
+![Giant Steps](https://simsi.es/blog/public/bart.png)
+
 Just yesterday I flew here to Las Vegas. I listened to a podcast, and looked out the window the whole time. I was able to enjoy seeing the cities, mountains and deserts drift by. I actually fucking enjoyed it. It was like watching a movie but better.
 
 Now I'm in Las Vegas and I'm calm. I'm enjoying the trip. I don't feel very different than when I'm at home. It's just not very scary.
