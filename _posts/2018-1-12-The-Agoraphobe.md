@@ -69,11 +69,12 @@ So many people were judgemental about the trunk exercise. Fuck them because it w
 
 Day 1 of the trunk exercise, I started with a whopping 5 seconds. This was enough to get me to the threshold of a panic attack. I got out of the trunk for a bit, stabilized, then did it again, and again, and again, until I felt no fear. Again at 10 seconds. Fear, less fear, less fear, fearless. Over the course of weeks I worked up to longer stretches of time in the small room and trunk.
 
-Towards the end of the therapy, I took a flight to San Francisco. I was a bit nervous, but the fear wasn't overwhelming and I mostly felt calm during the vacation. Most importantly, I faced the flight head on. I didn't try to look away. I didn't work on music. It was a huge step.
-
 ![Giant Steps](https://simsi.es/blog/public/bart.png)
 
-Just yesterday I flew here to Las Vegas. I listened to a podcast, and looked out the window the whole time. I was able to enjoy seeing the cities, mountains and deserts drift by. I actually fucking enjoyed it. It was like watching a movie but better.
+Towards the end of the therapy, I took a flight to San Francisco. I was a bit nervous, but the fear wasn't overwhelming and I mostly felt calm during the vacation. Most importantly, I faced the flight head on. I didn't try to look away. I didn't work on music. It was a huge step.
+
+
+Just yesterday I flew to Las Vegas (where I'm writing this). I listened to a podcast, and looked out the window the whole time. I was able to enjoy seeing the cities, mountains and deserts drift by. I actually fucking enjoyed it. It was like watching a movie but better.
 
 Now I'm in Las Vegas and I'm calm. I'm enjoying the trip. I don't feel very different than when I'm at home. It's just not very scary.
 
