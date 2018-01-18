@@ -12,7 +12,7 @@ I'm writing this while sitting in a coffee shop in Las Vegas. This is the first 
 # You Can't Fight an Enemy You Can't See
 
 
-I've been in and out of therapy for many years. Some of it was helpful but most of it wasn't. I don't blame the therapists, I think anxiety patients are kind of an edge-case for many of them. About a year ago, a therapist floated the idea that maybe I have agoraphobia. I never thought this to be the case, because as I mentioned, huge groups of people raise my anxiety but don't petrify me. This particular therapist has me take a diagnostic for agoraphobia, and sure enough my score was top of the class. After taking the issue directly to the oracle (i.e. Wikipedia), I essentially read a biography about my fears. A few excerpts that particularly spoke to me:
+I've been in and out of therapy for many years. Some of it was helpful but most of it wasn't. I don't blame the therapists, I think anxiety patients are kind of an edge-case for many of them. About a year ago, a therapist floated the idea that maybe I have agoraphobia. I never thought this to be the case, because as I mentioned, huge groups of people raise my anxiety but don't petrify me. This particular therapist had me take a diagnostic for agoraphobia, and sure enough my score was top of the class. After taking the issue directly to the oracle (i.e. Wikipedia), I essentially read a biography about my fears. A few excerpts that particularly spoke to me:
 
 - ...sufferers become anxious in unfamiliar environments or where they perceive that they have little control.
 - Triggers for this anxiety may include traveling (even short distances).
