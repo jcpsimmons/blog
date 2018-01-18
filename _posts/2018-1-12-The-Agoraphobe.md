@@ -2,7 +2,7 @@
 layout: post
 title: The Agoraphobe
 comments: true
-published: false
+published: true
 ---
 
 
@@ -38,21 +38,17 @@ Flying was the worst for me. My fear of flying was different than a lot of other
 
 As with many of life's other afflictions, I needed to hit rock bottom before authentic change could happen. This happened around late 2015. I was accepted to a university in Southern California to work on my funded PhD, my lifetime dream realized. Southern California is 36 hours away by car from my hometown (and roughly the same area I completed my Master's degree). The trip out to California is enough material for another huge post so I'll spare the details here. What I will say though is I remember waking up every morning to do 5-8 hours of driving, the pangs of terror got more and more intense with every passing mile. Further and further I drove outside of my comfort zone, my haven where no panic could touch me.
 
-I have to strike some details from this part of the story, maybe including them after I'm more established in my career path, but for now I can say that much complexity was added to the situation.
+I have to strike some details from this part of the story, maybe including them after I'm more established in my career path, but for now I can say that much complexity was added to the situation, complexity that left me homeless. Luckily I was able to secure housing quickly that fit within my price range. I owe this miracle to a good friend who let me stay at his apartment for far less rent than it was worth. I don't want to mention him by name, but if he's reading this, he knows I'm talking about him. Much of my early success in California is largely due to his mentorship.
 
-After being in the area for a few months, I had a huge panic attack. The relationship with my parents was strained - nobody had left home from our immediate family, and it was clear they wanted me back in Ohio (2 years later the relationship is better than ever, but this is another story entirely). I felt lousy. After the panic attack, and the rough patch in the relationship with my folks, I started to have intense insomnia. The lack of sleep made me more and more anxious, which made me sleep less. I felt like a ghost at this time, brittle.
-
-The walls started to close in on me even more. I had moved to California with a woman I was dating in Ohio. We lived together. She was accepted to a graduate program at a different school in the area. Around the time of my panic attack, she dropped out of her funded graduate program to begin working at Little Caesars(!!!) and pursue a career in acting, often driving to extras casting gigs in the evening and returning around 4 in the morning. This put added stress on me because I'd be on the hook for all of the rent if she couldn't come up with her share.
-
-Despite her struggles with depression and anxiety, she was extremely unsupportive of what I was going through at the time. Eventually she decided to break off the relationship, leaving me homeless. I would be bitter towards this person for a long time, but eventually I would let it go when I began to get perspective on the relationship, and realize that I was the one that didn't realize she was an unkind person, and that kindness detection was the only actionable thing I could work on. Luckily I was able to secure housing that week that fit within my price range. I owe this miracle to a good friend who let me stay at his apartment for far less rent than it was worth. I don't want to mention him by name, but if he's reading this, he knows I'm talking about him. Much of my early success in California is largely due to his mentorship.
-
-Oddly enough, with that negativity out of my life I started to acclimate. California started to feel a bit more like home. I was surviving, but I wasn't thriving. It would be another year before I got an official diagnosis as an agoraphobe, which is when the real healing would begin.
+Oddly enough, hitting my "rock bottom" wasn't as terrible as I pictured it. California started to feel a bit more like home. I was surviving, but I wasn't thriving. It would be another year before I got an official diagnosis as an agoraphobe, which is when the real healing would begin.
 
 
 # Treatment
 
 
-After putting a name on this thing I was feeling. I was referred to a therapist who specialized in "exposure therapy". Briefly put exposure therapy is where the patient practices doing what they are afraid of in metered doses until they are desensitized to it.
+After putting a name on this thing I was feeling. I was referred to a therapist who specialized in "exposure therapy". Briefly put exposure therapy is where the patient practices doing what they are afraid of in metered doses until they are desensitized to it. Since my example is a bit abstract it may be a bit easier to give an example with someone who is afraid of something more tangible such as riding in an elevator.
+
+The first step for our elevator-fearing friend would be to get him to take the smallest step towards riding in the elevator. This step may be as small as looking at the elevator from 10 feet away (these steps need to be SPECIFIC, fear will make everything subjective, so you need a yardstick that you can hold yourself to). So for step one, our friend would stand 10 feet away from the elevator while looking at it. If they feel intense fear during this step, they would take a break, and keep repeating this step until the fear is at a manageable or even non existent level. The next step would be to stand 5 feet away. More steps in this progression could be standing halfway in the elevator, standing in the elevator with doors open, standing in the elevator with doors closed, riding the elevator 1 floor, then 2 floors, etc. with each step repeated until the fear dissapates.
 
 
 With the help of the therapist, I put together a twofold plan: an exposure hierarchy for panic attack symptoms, and an exposure hierarchy for travel.
@@ -63,11 +59,15 @@ With the help of the therapist, I put together a twofold plan: an exposure hiera
 
 Panic exposure consisted of timed exercises that made me feel the symptoms of a panic attack. For me the most prevalent feeling was of feeling "unreal". Kind of that feeling you get when you haven't slept in a few days. In order to practice this I would stare into my eyes in a mirror for various times using a stopwatch (starting at about 10 seconds and gradually expanding). Now if I have this sensation, I don't give a fuck about it because I've practiced it...a lot... I know I can hang, and that nothing bad is gonna happen.
 
+Other exercises were breathing through a coffee straw (to produce dissociation and lightheadedness), holding my breath (I got up to a bit over a minute!!), hyperventillating, and being spun in an office chair.
+
+Most of these exercises gave me really similar sensations to those that I feel when having a panic attack. I've had some limited symptom attacks since practicing these, and they're not very scary anymore because I know that the various sensations an attack produces feel shitty, but are harmless.
+
 
 ## Travel Exposure
 
 
-Travel exposure was a bit harder... The therapist was able to parse out my flying thing - that the trapped feeling was what was scary to me. I couldn't really afford to take a flight every week so the therapist came up with two awesome exercises for me: having a friend lock me in the trunk, and having a friend lock me in a small room. Once building up in these two areas, I would take a flight as my "graduation project".
+Travel exposure was a bit more difficult to practice... The therapist was able to parse out my flying thing - that the trapped feeling was what was scary to me. I couldn't really afford to take a flight every week so the therapist came up with two awesome exercises for me: having a friend lock me in the trunk, and having a friend lock me in a small room. Once building up in these two areas, I would take a flight as my "graduation project".
 
 So many people were judgemental about the trunk exercise. Fuck them because it was the **most effective part of my therapy.** My current girlfriend agreed to time the exercises and operate the trunk lock. I'm extremely grateful, it was a huge trust building and bonding experience, and I think a lot of partners would have been weirded out or judgemental. She was always supportive and enthusiastic, in hindsight maybe she was just happy to shut me up for a bit too.
 
@@ -76,7 +76,6 @@ Day 1 of the trunk exercise, I started with a whopping 5 seconds. This was enoug
 ![Giant Steps](https://simsi.es/blog/public/bart.png)
 
 Towards the end of the therapy, I took a flight to San Francisco. I was a bit nervous, but the fear wasn't overwhelming and I mostly felt calm during the vacation. Most importantly, I faced the flight head on. I didn't try to look away. I didn't work on music. It was a huge step.
-
 
 Just yesterday I flew to Las Vegas (where I'm writing this). I listened to a podcast, and looked out the window the whole time. I was able to enjoy seeing the cities, mountains and deserts drift by. I actually fucking enjoyed it. It was like watching a movie but better.
 
