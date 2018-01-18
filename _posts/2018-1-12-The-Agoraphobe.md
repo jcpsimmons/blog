@@ -6,9 +6,6 @@ published: true
 ---
 
 
-*Thanks to Anthony, Karan, Victoria, and George. Without your help I'd probably be at home right now instead of Vegas.*
-
-
 I'm writing this while sitting in a coffee shop in Las Vegas. This is the first time I've experienced travel while feeling how I imagine most people feel while travelling. I don't feel like I'm caught in a dream, my heart isn't racing, I slept reasonably well last night, I'm able to enjoy experiences. This is actually a first for me. **Those of you that know me probably don't know that I've been dealing with massive amounts of anxiety for a long time** - mostly in the form of [agoraphobia](https://en.wikipedia.org/wiki/Agoraphobia). Most commonly agoraphobia is understood as a fear of large groups of people. While large groups of people do sometimes increase my anxiety, my biggest struggle has been with an indistinct, hard to pin down fear of travelling. I've only recently started to open up about these experiences. As I've talked to close friends about it, I've found that most people have some kind of fear they're dealing with - some with agoraphobia, others with social anxiety, etc. It's my hope that by writing this and sharing my story, I'm able to give some kind of a way out of that fear to someone out there reading this. I also hope that this is a small contribution towards removing the stigma around anxiety disorders. True power isn't the absense of fear. **True power is being able to openly and honestly confront one's own fears.**
 
 
@@ -94,3 +91,5 @@ You have to greet the anxiety. Let it be in you. Let yourself panic. Fuck it. Yo
 ![Beautiful Vegas!](https://simsi.es/blog/public/las-vegas.jpg)
 
 For flights, I usually wear sweatpants and a tee shirt to maximize comfort. This past flight I wore a dress shirt and blazer. Getting a chance to interact with the anxiety is like talking to an old friend who is kind of a prankster. I see my old friend less and less these days. I respect him, I want to dress well when I greet him, but I don't take him at his word anymore. Sometimes he says, "You're going to loose your fucking mind!". Now I just chuckle and pat him on the shoulder. He's helped me write so much music, he encouraged me to start working out, he made me face down the ugliest, most dishonest parts of my self, but he can fib with the best of em.
+
+*Thanks to Anthony, Karan, Victoria, and George. Without your help I'd probably be at home right now instead of Vegas.*
