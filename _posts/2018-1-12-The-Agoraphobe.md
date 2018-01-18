@@ -29,7 +29,7 @@ Funnily enough when I talked about it with family and close friends (most extrem
 
 ![Smiling on the Outside](https://simsi.es/blog/public/bgsu-at-parthenon.jpg)
 
-Despite the general shittiness of not being able to fully enjoy my hard earned hike up the Parthenon, or smørrebrød and espresso in a cozy Stockholm cafe, I was coping, albeit shittily as I would learn later.
+Despite the general shittiness of not being able to fully enjoy a hike up the Parthenon, or my hard earned smørrebrød and espresso in a cozy Stockholm cafe, I was coping, albeit shittily as I would learn later.
 
 Flying was the worst for me. My fear of flying was different than a lot of other peoples' fear of flying. I didn't give a fuck about being very high above the ground. I had no fears of the plane crashing. What terrified me was not being able to leave the plane at will for the duration of the flight. My coping mechanism around 2013-2015 was to boot up my laptop and start making music as such a frantic pace that I wouldn't realize I was on a plane. **Great for making music, bad coping mechanism!** I should mention that I did write one of my favorite pieces of music of ALL TIME on a plane, it's appropriately titled [WroteThisWhile30000FtInTheAir](https://soundcloud.com/simsies/wrotethiswhile30000ftintheair) and the track's associated photo is Copenhagen out of the plane window.
 
