@@ -2,7 +2,7 @@
 layout: post
 title: Tools of the Trade
 comments: true
-published: true
+published: false
 ---
 
 I didn't post at all next week - I take all holidays and weekends off with rare exception. One of the important lessons I've learned from weightlifting is that no muscle growth takes place during a workout - it takes place while you're recovering, i.e. *not* working out. Creative work operates on the same principle - **you're not growing while creating, you're growing while you're not creating.** Over the break I spent time with friends and family.

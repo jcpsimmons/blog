@@ -2,7 +2,7 @@
 layout: post
 title: Notational Cartography - A Blueprint
 comments: true
-published: true
+published: false
 ---
 
 
