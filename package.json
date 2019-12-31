@@ -8,7 +8,8 @@
     "build": "./node_modules/.bin/hexo generate",
     "clean": "./node_modules/.bin/hexo clean",
     "deploy": "./node_modules/.bin/hexo deploy",
-    "server": "./node_modules/.bin/hexo server"
+    "server": "./node_modules/.bin/hexo server",
+    "pushBlogFiles": "git subtree push --prefix public origin gh-pages"
   },
   "hexo": {
     "version": "4.2.0"
@@ -28,5 +29,8 @@
     "hexo-cli": "^3.1.0",
     "pre-commit": "^1.2.2"
   },
-  "pre-commit": "./node_modules/.bin/hexo generate"
+  "pre-commit": [
+    "build",
+    "pushBlogFiles"
+  ]
 }
