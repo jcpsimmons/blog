@@ -12,6 +12,7 @@
     "pushBlogFiles": "git subtree push --prefix public origin gh-pages"
   },
   "pre-commit": [
+    "build",
     "pushBlogFiles"
   ],
   "hexo": {
