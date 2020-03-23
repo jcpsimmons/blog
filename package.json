@@ -11,6 +11,9 @@
     "server": "./node_modules/.bin/hexo server",
     "pushBlogFiles": "git subtree push --prefix public origin gh-pages"
   },
+  "pre-commit": [
+    "pushBlogFiles"
+  ],
   "hexo": {
     "version": "4.2.0"
   },
