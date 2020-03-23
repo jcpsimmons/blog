@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My blog</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 10 Sep 2019 02:13:50 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why I Quit Social Media</title>
+      <link>/migrate-from-jekyll/</link>
+      <pubDate>Tue, 10 Sep 2019 02:13:50 +0000</pubDate>
+      
+      <guid>/migrate-from-jekyll/</guid>
+      <description>I made a resolution in September of 2018 that I would quit social media indefinitely. This seemed to be a good decision because of the literal hundreds of articles detailing gains from the benign better interpersonal relationships to the fantastical I founded a multimillion dollar startup. The truth is somewhere in between, but doesn&amp;rsquo;t make for good clickbait-fodder.
+My Impetus for Quitting The specific benefits I clued into after pouring through many individual accounts of quitting social media were: mental health benefits, enhanced interpersonal relationships, providing less fuel for the AI-revolution, and more presence in day to day life.</description>
+    </item>
+    
+  </channel>
+</rss>
