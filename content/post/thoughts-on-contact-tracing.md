@@ -1,6 +1,6 @@
 +++
 title = "Some Thoughts on Apple/Google “Contact Tracing” Technology"
-description = "A report and guide"
+description = ""
 date = 2020-04-13T06:00:50Z
 author = "Dr. Josh Simmons"
 +++
