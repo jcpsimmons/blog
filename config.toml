@@ -1,6 +1,7 @@
 baseurl = "/"
 title = "Dr. Josh Simmons | Blog"
 theme = "ghostwriter"
+googleAnalytics = "UA-163572881-1"
 
 [Params]
     mainSections = ["post"]
