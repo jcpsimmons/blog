@@ -50,6 +50,8 @@ The cost of living in Southern California is past absurd. It's my impression tha
 
 The first one is easy to address. It might have been happening here at some point. It is certainly **not happening here** anymore and likely won't be happening at any point in the near future. The California entertainment sector has been decimated. Studios are not shooting movies and shows. Most mainstay comedians of note in the LA scene have already left the area, or are planning to. Who knows when and if concert venues will reopen anytime soon. Gavin is thankfully keeping The French Laundry afloat, but how many staples of low-end LA cuisine are forever gone?
 
+The second point is theoretically impossible in anything less than ideal traffic conditions. You *could* do it, but you'd be spending such a significant time in traffic, it begs questions about the worth of such an endeavor.
+
 ## The Elephant in the Room
 
 I don't have a solution for the homeless crisis in LA. I believe that with the high tax rate and the number of high earning companies in the state there is definitely enough money to somehow solve or at least improve the problem. Some of the initiatives I've seen voted down during my time here have been improved/expanded homeless shelters, high-density affordable housing, and rent control. Each election I see these initiatives appear on the ballot then promptly voted down by many of my fellow Californians. 
