@@ -27,7 +27,7 @@ With the absence of the need to be in any particular city, I had to ask myself, 
 
 ## COVID-19 Protocols
 
-It's unfortunate that a virus has been so politicized. I'm going to avoid bringing politics into this essay and instead provide some numbers[1], and a question for pondering.
+It's unfortunate that a virus has been so politicized. I'm going to avoid bringing politics into this essay and instead provide some numbers[1], and some questions.
 
 **Unemployment Rate - May 2020 - peak(?) of COVID**
 
